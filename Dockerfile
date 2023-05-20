@@ -1,5 +1,5 @@
 # Use a specific version of Fedora
-FROM fedora:38
+FROM almalinux/9-minimal
 
 LABEL "com.github.actions.name"="Black Code Formatter"
 LABEL "com.github.actions.description"="Format Python code using black"
