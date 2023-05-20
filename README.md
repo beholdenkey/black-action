@@ -1,6 +1,6 @@
 # Black Code Formatter GitHub Action
 
-[![Build Status](https://github.com/beholdenkey/black-action/workflows/Bump%20version/badge.svg)](https://github.com/beholdenkey/black-action/actions) [![Stable Version](https://img.shields.io/github/v/tag/beholdenkey/black-action)](https://github.com/beholdenkey/black-action/tags) [![Latest Release](https://img.shields.io/github/v/release/beholdenkey/black-action?color=%233D9970)](https://github.com/beholdenkey/black-action/releases)
+[![Stable Version](https://img.shields.io/github/v/tag/beholdenkey/black-action)](https://github.com/beholdenkey/black-action/tags) [![Latest Release](https://img.shields.io/github/v/release/beholdenkey/black-action?color=%233D9970)](https://github.com/beholdenkey/black-action/releases)
 
 This GitHub Action runs the [Black code formatter](https://github.com/psf/black) on your Python code.
 
