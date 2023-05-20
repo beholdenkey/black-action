@@ -8,7 +8,7 @@ inputs:
     default: '. --check'
 runs:
   using: 'docker'
-  image: 'ghcr.io/beholdenkey/black-action@sha256:5b51b666d583b52bc25f74de5d4c4e9bdc6b11cfdb68927c4322e3078e55e5c4'
+  image: 'ghcr.io/beholdenkey/black-action:main'
 branding:
   icon: 'code'
   color: 'blue'
