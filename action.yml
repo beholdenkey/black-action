@@ -1,0 +1,14 @@
+name: 'Black Code Formatter Action'
+description: 'Formats Python code using the Black code formatter'
+author: '@beholdenkey'
+inputs:
+  args:
+    description: 'Arguments to pass to the black command'
+    required: false
+    default: '. --check'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'code'
+  color: 'blue'
