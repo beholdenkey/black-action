@@ -20,7 +20,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Run Black Formatter
-      uses: your-username/black-action@main  # Replace with your repository
+      uses: beholdenkey/black-action@v1
       with:
         args: ". --check"
 ```
