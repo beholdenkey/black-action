@@ -27,10 +27,6 @@ RUN dnf makecache \
 RUN pip3 install --upgrade pip \
   && pip3 install $pip_packages
 
-# Create a non-root user
-RUN useradd -m appuser
-USER appuser
-
 # Copy the entrypoint script
 COPY entrypoint.sh /entrypoint.sh
 
