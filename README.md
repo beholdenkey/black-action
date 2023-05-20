@@ -1,6 +1,7 @@
 # Black Code Formatter GitHub Action
 
-[![Stable Version](https://img.shields.io/github/v/tag/beholdenkey/black-action)](https://github.com/beholdenkey/black-action/tags) [![Latest Release](https://img.shields.io/github/v/release/beholdenkey/black-action?color=%233D9970)](https://github.com/beholdenkey/black-action/releases)
+![Build Status](https://img.shields.io/github/actions/workflow/status/beholdenkey/black-action/publish.yml?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/beholdenkey/black-action?style=for-the-badge)
 
 This GitHub Action runs the [Black code formatter](https://github.com/psf/black) on your Python code. It uses an already built image with black installed to speed up the process so you don't have to wait for the the container image to compile every time.
 
