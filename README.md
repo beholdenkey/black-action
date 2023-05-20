@@ -20,7 +20,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Run Black Formatter
-      uses: beholdenkey/black-action@v1
+      uses: beholdenkey/black-action@main
       with:
         args: ". --check"
 ```
