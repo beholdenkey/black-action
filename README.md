@@ -1,5 +1,6 @@
 # Black Code Formatter GitHub Action
 
+![License](https://img.shields.io/github/license/beholdenkey/black-action?style=for-the-badge)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/beholdenkey/black-action/publish.yml?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/beholdenkey/black-action?style=for-the-badge)
 
